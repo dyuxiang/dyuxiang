@@ -5,7 +5,7 @@
 <p align="center">
     <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=Venom&color=timeGradien&height=300&section=header&text=HI%20THERE!!&fontColor=ffffff&fontSize=60&fontAlign=50&fontAlignY=40&desc=I'm%20SHAWN.&descAlign=50&descSize=30&descAlignY=60&animation=fadeIn">
     <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=Venom&color=timeGradient&height=300&section=header&text=HI%20THERE!!&fontColor=000000&fontSize=60&fontAlign=50&fontAlignY=40&desc=I'm%20SHAWN.&descAlign=50&descSize=30&descAlignY=60&animation=fadeIn">
-    <img alt="capsule render animation" src="https://capsule-render.vercel.app/api?type=Venom&color=timeGradient&height=300&section=header&text=HI%20THERE!!&fontColor=f0f0f0&fontSize=60&fontAlign=50&fontAlignY=40&desc=I'm%20SHAWN.&descAlign=50&descSize=30&descAlignY=60&animation=fadeIn">
+    <img alt="capsule render animation" src="https://capsule-render.vercel.app/api?type=Venom&color=timeGradient&height=300&section=header&text=HI%20THERE!!&fontColor=000000&fontSize=60&fontAlign=50&fontAlignY=40&desc=I'm%20SHAWN.&descAlign=50&descSize=30&descAlignY=60&animation=fadeIn">
 </p>
 
 <picture>
