@@ -1,11 +1,11 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=Venom&color=timeGradient&height=300&section=header&text=HI%20THERE!!&fontColor=f6f6f6&fontSize=70&fontAlign=50&fontAlignY=30&desc=I'm%20SHAWN.&descAlign=50&descSize=30&descAlignY=60&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=Venom&color=timeGradient&height=300&section=header&text=HI%20THERE!!&fontColor=f0f0f0&fontSize=60&fontAlign=50&fontAlignY=40&desc=I'm%20SHAWN.&descAlign=50&descSize=30&descAlignY=60&animation=fadeIn" />
 </p>
 
 
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&&section=footer&text=THE%20END&fontColor=f8f8f8&fontSize=70&fontAlign=50&fontAlignY=70&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&&section=footer&text=THE%20END&fontColor=f0f0f0&fontSize=70&fontAlign=50&fontAlignY=70&animation=fadeIn" />
 </p>
 <!--
 **dyuxiang/dyuxiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
